@@ -1,4 +1,4 @@
-<h1 align="center">bfmhno3</h1>
+<h1 align="center">Hi, I'm bfmhno3!</h1>
 
 <p align="center">
   Embedded systems &amp; robotics tinkerer, currently based in Los Angeles.<br>
