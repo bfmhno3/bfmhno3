@@ -1,61 +1,66 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm bfmhno3</h1>
-<h3 align="center">A passionate Embedded Systems & Robotics Developer from China</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bfmhno3&label=Profile%20views&color=0e75b6&style=flat" alt="bfmhno3" /> </p>
+<h1 align="center">bfmhno3</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bfmhno3&theme=" alt="bfmhno3" /></a> </p>
-
-- 🔭 I’m currently working on [zephyr-blackpill-samples](https://github.com/bfmhno3/zephyr-blackpill-samples)
-- 🌱 I’m currently learning **Zephyr RTOS and Linux**
-- 💬 Ask me about **STM32, FreeRTOS, KiCad, Zephyr and Linux**
-- 📫 How to reach me **bfmhno3@gmail.com**
-- 👨‍💻 All of my projects are available at **https://bfmhno3.github.io/portfolio/**
-- 📝 I regularly write articles on **https://bfmhno3.github.io/**
-- ⚡ Fun fact **I think I am funny**
-
-<div> <a href="https://github.com/bfmhno3" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:bfmhno3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Gnu Bash" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Static/jekyllrb-icon.svg" alt="Jekyllrb" width="40" height="40"/>
-<img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+<p align="center">
+  Embedded systems &amp; robotics tinkerer, currently based in Los Angeles.<br>
+  I build firmware, hardware and the tooling around them: Zephyr, embedded Linux, Rust, Nix and KiCad.<br>
+  I write down what I learn along the way on my blog.
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfmhno3&layout=compact&theme=dark" alt=bfmhno3 />
+<p align="center">
+  <a href="https://bfmhno3.github.io/"><img src="https://img.shields.io/badge/Blog-bfmhno3.github.io-0e75b6?style=flat-square&logo=astro&logoColor=white" alt="Blog"></a>
+  <a href="mailto:bfmhno3@gmail.com"><img src="https://img.shields.io/badge/Email-bfmhno3@gmail.com-333?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bfmhno3&show_icons=true&locale=en&theme=" alt="bfmhno3" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt">
+  <img src="https://img.shields.io/badge/Typst-239DAD?style=flat-square&logo=typst&logoColor=white" alt="Typst">
+  <img src="https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white" alt="Nix">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Zephyr-7E57C2?style=flat-square&logo=zephyrproject&logoColor=white" alt="Zephyr">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32">
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" alt="KiCad">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+</p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bfmhno3&theme=dark" alt="bfmhno3" /></p>
+- 🌱 Learning **Zephyr RTOS** and **embedded Linux**
+- 💬 Ask me about **STM32, FreeRTOS, KiCad, Zephyr and Linux**
+- 📝 Writing about it all at **[bfmhno3.github.io](https://bfmhno3.github.io/)**
+- ⚡ Fun fact: **I use Nix, btw**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/bfmhno3">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bfmhno3&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfmhno3&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfmhno3&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfmhno3&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfmhno3&theme=2077" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bfmhno3&theme=default"/>
+<br>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<h3 align="center">Profile</h3>
+<p align="center"><img src="assets/metrics/profile.svg" alt="Profile and achievements"></p>
+
+<h3 align="center">Pinned &amp; starred</h3>
+<p align="center"><img src="assets/metrics/repositories.svg" alt="Repositories, stars and topics"></p>
+
+<h3 align="center">Languages</h3>
+<p align="center"><img src="assets/metrics/languages.svg" alt="Languages"></p>
+
+<h3 align="center">Code</h3>
+<p align="center"><img src="assets/metrics/code.svg" alt="Lines changed and recent code"></p>
+
+<h3 align="center">Contributions</h3>
+<p align="center"><img src="assets/metrics/calendar.svg" alt="Isometric and monthly calendar"></p>
+
+<h3 align="center">Skyline</h3>
+<p align="center"><img src="assets/metrics/skyline.svg" alt="Contribution skyline"></p>
+
+<h3 align="center">Habits</h3>
+<p align="center"><img src="assets/metrics/habits.svg" alt="Coding habits"></p>
+
+<h3 align="center">Recent activity</h3>
+<p align="center"><img src="assets/metrics/activity.svg" alt="Recent activity"></p>
+
+<h3 align="center">Writing</h3>
+<p align="center"><img src="assets/metrics/blog.svg" alt="Latest blog posts"></p>
+
+<h3 align="center">Community</h3>
+<p align="center"><img src="assets/metrics/community.svg" alt="Followers and following"></p>
+
+<sub>Metrics rendered daily by [lowlighter/metrics](https://github.com/lowlighter/metrics).</sub>

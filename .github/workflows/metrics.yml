@@ -1,0 +1,183 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: metrics
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Profile
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: assets/metrics/profile.svg
+          committer_message: "chore(metrics): update profile"
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bfmhno3
+          template: classic
+          config_timezone: America/Los_Angeles
+          base: header
+          plugin_introduction: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          plugin_achievements_limit: 0
+
+      - name: Repositories
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: assets/metrics/repositories.svg
+          committer_message: "chore(metrics): update repositories"
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bfmhno3
+          template: classic
+          config_timezone: America/Los_Angeles
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_pinned: 6
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 20
+
+      - name: Languages
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: assets/metrics/languages.svg
+          committer_message: "chore(metrics): update languages"
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bfmhno3
+          template: classic
+          config_timezone: America/Los_Angeles
+          base: ""
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_categories: programming, markup
+          plugin_languages_recent_categories: programming, markup
+          plugin_languages_recent_days: 30
+          plugin_languages_recent_load: 300
+          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_ignored: html, css, qml
+          plugin_languages_limit: 8
+          plugin_languages_other: yes
+
+      - name: Code
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: assets/metrics/code.svg
+          committer_message: "chore(metrics): update code"
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bfmhno3
+          template: classic
+          config_timezone: America/Los_Angeles
+          base: ""
+          plugin_lines: yes
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 4
+          plugin_lines_history_limit: 1
+          plugin_code: yes
+          plugin_code_load: 200
+          plugin_code_lines: 12
+          plugin_code_visibility: public
+
+      - name: Calendar
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: assets/metrics/calendar.svg
+          committer_message: "chore(metrics): update calendar"
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bfmhno3
+          template: classic
+          config_timezone: America/Los_Angeles
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+
+      - name: Skyline
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: assets/metrics/skyline.svg
+          committer_message: "chore(metrics): update skyline"
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bfmhno3
+          template: classic
+          config_timezone: America/Los_Angeles
+          base: ""
+          plugin_skyline: yes
+
+      - name: Habits
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: assets/metrics/habits.svg
+          committer_message: "chore(metrics): update habits"
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bfmhno3
+          template: classic
+          config_timezone: America/Los_Angeles
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_languages_limit: 8
+
+      - name: Activity
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: assets/metrics/activity.svg
+          committer_message: "chore(metrics): update activity"
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bfmhno3
+          template: classic
+          config_timezone: America/Los_Angeles
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 8
+          plugin_activity_days: 14
+          plugin_activity_filter: push, pr, issue, release, ref/create, review, comment
+          plugin_followup: yes
+          plugin_followup_sections: user
+
+      - name: Community
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: assets/metrics/community.svg
+          committer_message: "chore(metrics): update community"
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bfmhno3
+          template: classic
+          config_timezone: America/Los_Angeles
+          base: ""
+          plugin_people: yes
+          plugin_people_types: followers, following
+          plugin_people_limit: 24
+          plugin_people_size: 28
+
+      - name: Blog
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: assets/metrics/blog.svg
+          committer_message: "chore(metrics): update blog"
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bfmhno3
+          template: classic
+          config_timezone: America/Los_Angeles
+          base: ""
+          plugin_rss: yes
+          plugin_rss_source: https://bfmhno3.github.io/rss.xml
+          plugin_rss_limit: 5
