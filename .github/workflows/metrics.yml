@@ -33,18 +33,16 @@ jobs:
           plugin_achievements_threshold: C
           plugin_achievements_limit: 0
 
-      - name: Repositories
+      - name: Stars
         uses: lowlighter/metrics@v3.34
         with:
-          filename: assets/metrics/repositories.svg
-          committer_message: "chore(metrics): update repositories"
+          filename: assets/metrics/stars.svg
+          committer_message: "chore(metrics): update stars"
           token: ${{ secrets.METRICS_TOKEN }}
           user: bfmhno3
           template: classic
           config_timezone: America/Los_Angeles
           base: ""
-          plugin_repositories: yes
-          plugin_repositories_pinned: 6
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_topics: yes
