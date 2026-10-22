@@ -36,9 +36,6 @@
 <h3 align="center">Profile</h3>
 <p align="center"><img src="assets/metrics/profile.svg" alt="Profile and achievements"></p>
 
-<h3 align="center">Starred</h3>
-<p align="center"><img src="assets/metrics/stars.svg" alt="Starred repositories and topics"></p>
-
 <h3 align="center">Languages</h3>
 <p align="center"><img src="assets/metrics/languages.svg" alt="Languages"></p>
 
