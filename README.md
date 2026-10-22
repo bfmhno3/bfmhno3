@@ -42,17 +42,14 @@
 <h3 align="center">Languages</h3>
 <p align="center"><img src="assets/metrics/languages.svg" alt="Languages"></p>
 
-<h3 align="center">Code</h3>
-<p align="center"><img src="assets/metrics/code.svg" alt="Lines changed and recent code"></p>
+<h3 align="center">Lines changed</h3>
+<p align="center"><img src="assets/metrics/code.svg" alt="Lines changed"></p>
 
 <h3 align="center">Contributions</h3>
 <p align="center"><img src="assets/metrics/calendar.svg" alt="Isometric and monthly calendar"></p>
 
 <h3 align="center">Skyline</h3>
 <p align="center"><img src="assets/metrics/skyline.svg" alt="Contribution skyline"></p>
-
-<h3 align="center">Habits</h3>
-<p align="center"><img src="assets/metrics/habits.svg" alt="Coding habits"></p>
 
 <h3 align="center">Recent activity</h3>
 <p align="center"><img src="assets/metrics/activity.svg" alt="Recent activity"></p>

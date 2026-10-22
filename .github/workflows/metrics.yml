@@ -63,11 +63,8 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_categories: programming, markup
-          plugin_languages_recent_categories: programming, markup
-          plugin_languages_recent_days: 30
-          plugin_languages_recent_load: 300
           plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_ignored: html, css, qml
           plugin_languages_limit: 8
@@ -87,10 +84,6 @@ jobs:
           plugin_lines_sections: repositories, history
           plugin_lines_repositories_limit: 4
           plugin_lines_history_limit: 1
-          plugin_code: yes
-          plugin_code_load: 200
-          plugin_code_lines: 12
-          plugin_code_visibility: public
 
       - name: Calendar
         uses: lowlighter/metrics@v3.34
@@ -118,23 +111,6 @@ jobs:
           config_timezone: America/Los_Angeles
           base: ""
           plugin_skyline: yes
-
-      - name: Habits
-        uses: lowlighter/metrics@v3.34
-        with:
-          filename: assets/metrics/habits.svg
-          committer_message: "chore(metrics): update habits"
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: bfmhno3
-          template: classic
-          config_timezone: America/Los_Angeles
-          base: ""
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_languages_limit: 8
 
       - name: Activity
         uses: lowlighter/metrics@v3.34
