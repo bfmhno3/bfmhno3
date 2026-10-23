@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">导出、工具链与 CI</div>
-                                <div class="date">19 Oct 2026</div>
+                                <div class="title">模块、包、导入系统与命令行：把 PYTHONPATH 换成 pip install -e</div>
+                                <div class="date">22 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">用 Rust 写一个 WebAssembly 插件：按拼音排序术语表</div>
-                                <div class="date">19 Oct 2026</div>
+                                <div class="title">测试：pytest、hypothesis 与 CI：让机器替我去找没想到的输入</div>
+                                <div class="date">22 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">生态：Typst Universe 与第三方包</div>
-                                <div class="date">19 Oct 2026</div>
+                                <div class="title">异常、上下文管理器、日志与调试：把错误收成一个层次</div>
+                                <div class="date">22 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">幻灯片与绘图</div>
-                                <div class="date">19 Oct 2026</div>
+                                <div class="title">BM25 与查询语言：match/case 和递归下降</div>
+                                <div class="date">22 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">作业模板：模块、多文件与条件编译</div>
-                                <div class="date">19 Oct 2026</div>
+                                <div class="title">继承、ABC 与 Protocol：分析器插件</div>
+                                <div class="date">21 Oct 2026</div>
                             </div>
                         </div>
                     </section>
