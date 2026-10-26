@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">对象模型与元编程：描述符、元类、字节码</div>
+                                <div class="title">GUI（上）：tkinter 与事件循环</div>
+                                <div class="date">25 Oct 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">命令行体验与分发：typer、rich、uv 与 wheel</div>
                                 <div class="date">24 Oct 2026</div>
                             </div>
                         </div>
@@ -29,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">类型系统：从注解到 mypy --strict</div>
+                                <div class="title">Web：FastAPI、pydantic 与 httpx</div>
                                 <div class="date">24 Oct 2026</div>
                             </div>
                         </div>
@@ -38,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">数据库：sqlite3、FTS5 与 SQLAlchemy</div>
-                                <div class="date">23 Oct 2026</div>
+                                <div class="title">并发（下）：asyncio 与手写 HTTP 服务器</div>
+                                <div class="date">24 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,17 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">文件与二进制格式：struct、varint、mmap 与压缩</div>
-                                <div class="date">22 Oct 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">模块、包、导入系统与命令行：把 PYTHONPATH 换成 pip install -e</div>
-                                <div class="date">22 Oct 2026</div>
+                                <div class="title">并发（上）：线程、进程、GIL 与自由线程</div>
+                                <div class="date">24 Oct 2026</div>
                             </div>
                         </div>
                     </section>
