@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GUI（上）：tkinter 与事件循环</div>
-                                <div class="date">25 Oct 2026</div>
+                                <div class="title">原生扩展（下）：用 PyO3 写 Rust 扩展</div>
+                                <div class="date">26 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">命令行体验与分发：typer、rich、uv 与 wheel</div>
-                                <div class="date">24 Oct 2026</div>
+                                <div class="title">原生扩展（上）：C、ctypes、cffi、Cython 与 C API</div>
+                                <div class="date">26 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Web：FastAPI、pydantic 与 httpx</div>
-                                <div class="date">24 Oct 2026</div>
+                                <div class="title">性能：剖析、字节码特化与优化</div>
+                                <div class="date">26 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">并发（下）：asyncio 与手写 HTTP 服务器</div>
-                                <div class="date">24 Oct 2026</div>
+                                <div class="title">数据分析：numpy、pandas、matplotlib 与齐夫定律</div>
+                                <div class="date">26 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">并发（上）：线程、进程、GIL 与自由线程</div>
-                                <div class="date">24 Oct 2026</div>
+                                <div class="title">GUI（下）：用 PySide6 做一个好看的桌面客户端</div>
+                                <div class="date">26 Oct 2026</div>
                             </div>
                         </div>
                     </section>
