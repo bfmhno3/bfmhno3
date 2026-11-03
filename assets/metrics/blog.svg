@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">变量与参数展开：一门只有字符串的语言</div>
-                                <div class="date">31 Oct 2026</div>
+                                <div class="title">POSIX sh：当你没有 bash 的时候</div>
+                                <div class="date">2 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">展开：bash 怎样把一行字拆成参数</div>
-                                <div class="date">31 Oct 2026</div>
+                                <div class="title">交互式 bash：启动文件、提示符、作业控制与补全</div>
+                                <div class="date">1 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">第一个脚本：shebang、fork/exec 与退出码</div>
-                                <div class="date">31 Oct 2026</div>
+                                <div class="title">测试与工程化：bats、ShellCheck、shfmt 与定时运行</div>
+                                <div class="date">1 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">原生扩展（下）：用 PyO3 写 Rust 扩展</div>
-                                <div class="date">26 Oct 2026</div>
+                                <div class="title">出错时：set -e、trap 与信号</div>
+                                <div class="date">1 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">原生扩展（上）：C、ctypes、cffi、Cython 与 C API</div>
-                                <div class="date">26 Oct 2026</div>
+                                <div class="title">文本处理：sed、awk 与一份备份日志</div>
+                                <div class="date">1 Nov 2026</div>
                             </div>
                         </div>
                     </section>
