@@ -18,7 +18,7 @@ jobs:
     timeout-minutes: 90
     steps:
       - name: Profile
-        uses: lowlighter/metrics@v3.34
+        uses: gh-metrics/metrics@0252603d89e89b96f0413c3cb6b0649b64387ba9
         with:
           filename: assets/metrics/profile.svg
           committer_message: "chore(metrics): update profile"
@@ -34,7 +34,7 @@ jobs:
           plugin_achievements_limit: 0
 
       - name: Languages
-        uses: lowlighter/metrics@v3.34
+        uses: gh-metrics/metrics@0252603d89e89b96f0413c3cb6b0649b64387ba9
         with:
           filename: assets/metrics/languages.svg
           committer_message: "chore(metrics): update languages"
@@ -53,7 +53,7 @@ jobs:
           plugin_languages_other: yes
 
       - name: Code
-        uses: lowlighter/metrics@v3.34
+        uses: gh-metrics/metrics@0252603d89e89b96f0413c3cb6b0649b64387ba9
         with:
           filename: assets/metrics/code.svg
           committer_message: "chore(metrics): update code"
@@ -68,7 +68,7 @@ jobs:
           plugin_lines_history_limit: 1
 
       - name: Calendar
-        uses: lowlighter/metrics@v3.34
+        uses: gh-metrics/metrics@0252603d89e89b96f0413c3cb6b0649b64387ba9
         with:
           filename: assets/metrics/calendar.svg
           committer_message: "chore(metrics): update calendar"
@@ -83,7 +83,7 @@ jobs:
           plugin_calendar_limit: 1
 
       - name: Skyline
-        uses: lowlighter/metrics@v3.34
+        uses: gh-metrics/metrics@0252603d89e89b96f0413c3cb6b0649b64387ba9
         with:
           filename: assets/metrics/skyline.svg
           committer_message: "chore(metrics): update skyline"
@@ -95,7 +95,7 @@ jobs:
           plugin_skyline: yes
 
       - name: Activity
-        uses: lowlighter/metrics@v3.34
+        uses: gh-metrics/metrics@0252603d89e89b96f0413c3cb6b0649b64387ba9
         with:
           filename: assets/metrics/activity.svg
           committer_message: "chore(metrics): update activity"
@@ -112,7 +112,7 @@ jobs:
           plugin_followup_sections: user
 
       - name: Community
-        uses: lowlighter/metrics@v3.34
+        uses: gh-metrics/metrics@0252603d89e89b96f0413c3cb6b0649b64387ba9
         with:
           filename: assets/metrics/community.svg
           committer_message: "chore(metrics): update community"
@@ -127,7 +127,7 @@ jobs:
           plugin_people_size: 28
 
       - name: Blog
-        uses: lowlighter/metrics@v3.34
+        uses: gh-metrics/metrics@0252603d89e89b96f0413c3cb6b0649b64387ba9
         with:
           filename: assets/metrics/blog.svg
           committer_message: "chore(metrics): update blog"
